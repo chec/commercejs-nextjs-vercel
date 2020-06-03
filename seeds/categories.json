@@ -1,14 +1,14 @@
 [
   {
-    "slug": "facial-products",
-    "name": "Facial Products"
+    "slug": "bedroom",
+    "name": "Bedroom"
   },
   {
-    "slug": "hair-products",
-    "name": "Hair Products"
+    "slug": "dining-room",
+    "name": "Dining Room"
   },
   {
-    "slug": "body-products",
-    "name": "Body Products"
+    "slug": "living-room",
+    "name": "Living Room"
   }
 ]

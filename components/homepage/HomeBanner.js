@@ -8,7 +8,7 @@ export default function HomeBanner() {
         className="font-size-display1 mt-5 text-center mx-auto text-uppercase"
         style={{ maxWidth: '53rem' }}
       >
-        Moisture is the essence of wetness, and wetness is the essence of beauty.
+        A curated and tailored experience that connects design with the individuals who seek it.
       </p>
       <div className="d-flex align-items-center justify-content-center mt-3 mb-5">
         <Link href="/about">

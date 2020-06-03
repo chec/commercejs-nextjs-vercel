@@ -1,127 +1,92 @@
 [
   {
     "link": "products[0].id",
-    "filename": "face-body-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/rt75zhv0VNLzpKFv|face-body-3.jpg"
+    "filename": "dining-1b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/OBgaFJf77Y7gpjQP|dining-1b.png"
   },
   {
     "link": "products[0].id",
-    "filename": "face-body-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/NJS36jqc1IVbGxkY|face-body-2.jpg"
+    "filename": "dining-1a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/QkyhLpwQH9sYVyNH|dining-1a.png"
   },
   {
     "link": "products[0].id",
-    "filename": "woman-using-facial-roller.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/f0c210f496a67c63c3137e6ef18d0fb0a70fd8a35e95127c85ea1|woman-using-facial-roller-3762666.jpg"
+    "filename": "dining-1.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/854076b3f4ab2cc0e17d15d9dcee0c03115946a75ed7db7deddb0|dining-1.png"
   },
   {
     "link": "products[1].id",
-    "filename": "scrub-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/aZ0bRFjBJfmlCkNA|scrub-3.jpg"
+    "filename": "bed-2b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/JV4TPqgcGMK3vAwS|bed-2b.png"
   },
   {
     "link": "products[1].id",
-    "filename": "scrub-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/HWymH0YMp0k0PbXW|scrub-2.jpg"
+    "filename": "bed-2a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/lWsVpqHH3yBlGu5O|bed-2a.png"
   },
   {
     "link": "products[1].id",
-    "filename": "person-holding-brown-wooden-brush.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/4c68d7b6793017b8e07b149c2463a3d6fc6d76e15e95133031fd9|person-holding-brown-wooden-brush-3737606.jpg"
+    "filename": "bed-2.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/ccb11c49a5337c608fc29a437c0736b901dcd1f05ed7ea1365fd3|bed-2.png"
   },
   {
     "link": "products[2].id",
-    "filename": "oil-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/Q2BZEwFqMPQWp5Hz|oil-3.jpg"
+    "filename": "bed-1b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/z9MrOYfY57NGyOXf|bed-1b.png"
   },
   {
     "link": "products[2].id",
-    "filename": "oil-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/jBWGCP2TdaaN3XMO|oil-2.jpg"
+    "filename": "bed-1a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/gPM0WrfUugrO9lI9|bed-1a.png"
   },
   {
     "link": "products[2].id",
-    "filename": "person-holding-serum-bottle.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/8c4b6f74e887d460cc5a9249eb4161ae8f4448e65e950e078cb3d|person-holding-serum-bottle-3762882.jpg"
+    "filename": "bed-1.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/69c15189cdc587a6a61a63e159adb80c334124355ed7e3fe1f904|bed-1.png"
   },
   {
     "link": "products[3].id",
-    "filename": "lips-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/18tWaqssHwN91v5w|lips-3.jpg"
+    "filename": "dining-2b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/rYa7ZUg7QO3bXNWE|dining-2b.png"
   },
   {
     "link": "products[3].id",
-    "filename": "lips-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/s5c8ytZqmuRnZ5eL|lips-2.jpg"
+    "filename": "dining-2a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/skG06nOAIVsf9LvF|dining-2a.png"
   },
   {
     "link": "products[3].id",
-    "filename": "LipFantastic.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/bd32bd535dc7fe85cff93f6b9d27e0bdc0453e785e950a5655528|LipFantastic.jpg"
+    "filename": "dining-2.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/8df6e0df47b518ed4c9c138b1e9b5840e03393595ed7e19da5335|dining-2.png"
   },
   {
     "link": "products[4].id",
-    "filename": "photo-of-bottle-with-pink-liquid.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/39e12fc2423743fdfac3200f2c1fdecf44191e835e9514973ed64|photo-of-bottle-with-pink-liquid-2587175.jpg"
+    "filename": "couch-2b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/L9TnBfVPVJ35SvYT|couch-2b.png"
+  },
+  {
+    "link": "products[4].id",
+    "filename": "couch-2a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/jRYUwgf57Eu1KM7v|couch-2a.png"
+  },
+  {
+    "link": "products[4].id",
+    "filename": "couch-2.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/d5668c3a2be8828617374fa0dea8ea7817686e5d5ed7dad7bd4c8|couch-2.png"
   },
   {
     "link": "products[5].id",
-    "filename": "hair-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/hy8A9Cbf8mzgFvVW|hair-3.jpg"
+    "filename": "couch-1b.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/ElQBtPBuzLOQQTm3|couch-1b.png"
   },
   {
     "link": "products[5].id",
-    "filename": "hair-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/AkEgkNsj91xOb7x6|hair-2.jpg"
+    "filename": "couch-1a.png",
+    "url": "https://cdn.chec.io/merchants/18284/assets/m9JFQ44tOkvVeTnX|couch-1a.png"
   },
   {
     "link": "products[5].id",
-    "filename": "9.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/b28e709f2c4eea94c4257616dfd96db297ca33715e8165fe2a2f2|9.jpg"
-  },
-  {
-    "link": "products[6].id",
-    "filename": "hair-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/X4TVoWC4fyrpslvx|hair-3.jpg"
-  },
-  {
-    "link": "products[6].id",
-    "filename": "hair-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/4LWvRhLiDUFXr4Iw|hair-2.jpg"
-  },
-  {
-    "link": "products[6].id",
-    "filename": "8.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/8efc6b1334a46a91d827cd385de0342d7eb2dbb95e816553ed396|8.jpg"
-  },
-  {
-    "link": "products[7].id",
-    "filename": "cream-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/buyMHs581egwbliD|cream-3.jpg"
-  },
-  {
-    "link": "products[7].id",
-    "filename": "cream-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/f0w74xA5ryVMxbhd|cream-2.jpg"
-  },
-  {
-    "link": "products[7].id",
-    "filename": "woman-with-pink-lipstick.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/90f8a8d6542f4aab1725328b3d6baed1e5e152485e95119356b07|woman-with-pink-lipstick-applying-facial-cream-3762877.jpg"
-  },
-  {
-    "link": "products[8].id",
-    "filename": "gel-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/U2mgBEG8RC86k6AI|gel-3.jpg"
-  },
-  {
-    "link": "products[8].id",
-    "filename": "gel-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/cNc2ELW6nNTxRu9q|gel-2.jpg"
-  },
-  {
-    "link": "products[8].id",
-    "filename": "woman-with-red-under-eye-mask.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/45feba5965f4048af3c94ddffd7d5d6416b1be6d5e950c190eaf9|woman-with-red-under-eye-mask-3762477.jpg"
+    "filename": "couch-1.png",
+    "url": "https://cdn.chec.io/merchants/18284/images/e21932a67f40ccec9a3509af2adc0e3d744082565ed7d830e0720|couch-1.png"
   }
 ]

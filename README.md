@@ -1,15 +1,15 @@
 # Demo Store with Commerce.js and Next.js 🛍️💳
 
-A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js SDK and Next.js with live deployment to Netlify.
+A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js SDK and Next.js with live deployment to Vercel.
 
-Checkout the live demo [here](https://commercejs-demo-store.netlify.app)
+Checkout the live demo [here]()
 
 **Note**
 - This app is built using Commerce.js v2 SDK
 
 ## Overview
 
-This README will guide you in getting up and running with a fully-fledged eCommerce template. We have configured this template for you to one-click deploy directly to Netlify. Alternatively, you can manually deploy to your choice of hosting platform.
+This README will guide you in getting up and running with a fully-fledged eCommerce template. We have configured this template for you to one-click deploy directly to Vercel. Alternatively, you can manually deploy to your choice of hosting platform.
 
 For a full detailed tutorial on building this JAMstack eCommerce application, please head on over [here](tutorial-url).
 
@@ -35,23 +35,23 @@ chec register
 Follow the rest of the walk-through to set up your merchant details. Alternatively, you can go [here](https://authorize.chec.io/signup) to register for a Chec account. 
 
 
-## One-click Deploy with Netlify (recommended)
+## One-click Deploy with Vercel (recommended)
 
-The one-click deploy allows you to connect Netlify to your GitHub account to clone the `commercejs-nextjs-demo-store` repository and deploy it automatically. Be sure to go to [Netlify](https://app.netlify.com/signup) and sign up for an account before clicking the deploy button.
+The one-click deploy allows you to connect Vercel to your GitHub account to clone the `commercejs-nextjs-vercel` repository and deploy it automatically. Be sure to go to [Vercel](https://vercel.com/signup) and sign up for an account before clicking the deploy button.
 
- [![Deploy to Netlify button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/chec/commercejs-nextjs-vercel)
 
-Please note that the site deploy will first fail as we have yet to enter in the environment variables for your Netlify site. Configure your site by going under the **Build and Deploy** settings then **Environment** to enter the API key. The value is automatically encrypted and stored in Netlify’s system. The key input is **CHEC_PUBLIC_KEY** and the value input is the Public Key. Please note that for the purpose of getting you up and running with a live deploy preview of the demo store, we have provided you with the public_key from our demo merchant account. Access this key [here](https://github.com/chec/commercejs-nextjs-demo-store/blob/master/.env.example) and copy over the `CHEC_PUBLIC_KEY` value.
+Please note that the site deploy will first fail as we have yet to enter in the environment variables for your Vercel site. Configure your site by going under the **Build and Deploy** settings then **Environment** to enter the API key. The value is automatically encrypted and stored in Vercel system. The key input is **CHEC_PUBLIC_KEY** and the value input is the Public Key. Please note that for the purpose of getting you up and running with a live deploy preview of the demo store, we have provided you with the public_key from our demo merchant account. Access this key [here](https://github.com/chec/commercejs-nextjs-vercel/blob/master/.env.example) and copy over the `CHEC_PUBLIC_KEY` value.
 
-## Manual setup and Netlify deployment
+## Manual setup and Vercel deployment
 
-Manual setup involves cloning the repo into your local environment, seeding the provided sample data into your Chec account and deploying to Netlify.
+Manual setup involves cloning the repo into your local environment, seeding the provided sample data into your Chec account and deploying to Vercel.
 
 **STEP 1.** Clone the repo
 
 ```bash
 # Clone the repository locally, optionally rename the repo, change into the directory
-git clone https://github.com/chec/commercejs-nextjs-demo-store.git chec-store 
+git clone https://github.com/chec/commercejs-nextjs-vercel.git chec-store 
 cd chec-store
 ```
 
@@ -100,15 +100,15 @@ Your site should now be populated with the sample data!
 
 **STEP 6.** Deploy your site
 
-Be sure to sign up for a Netlify account and log in to it. Navigate to “New site from Git” and give access to select your repo. Your build settings is automatically filled out for your from the `netlify.toml` in the template. Now go ahead and click the "deploy site" to see your live site!
+Be sure to sign up for a Vercel account and log in to it. Navigate to “New site from Git” and give access to select your repo. Now go ahead and click the "deploy site" to see your live site!
 
-Please note that the site deploy will first fail as we have yet to enter in your environment variables for your Netlify site. Configure your site by going under the **Build and Deploy** settings then **Environment** to enter your API key. The value is automatically encrypted and stored in Netlify’s system. The *key* input is **CHEC_PUBLIC_KEY** and *value* input is your **Public Key**. You can access your Chec public key as explained in the manual setup above. 
+Please note that the site deploy will first fail as we have yet to enter in your environment variables for your Vercel site. Configure your site by going under the **Build and Deploy** settings then **Environment** to enter your API key. The value is automatically encrypted and stored in Vercel system. The *key* input is **CHEC_PUBLIC_KEY** and *value* input is your **Public Key**. You can access your Chec public key as explained in the manual setup above. 
 
 ## 🥞 Stack
 
 - Framework - [Next.js](https://nextjs.org)
 - eCommerce - [Chec/Commerce.js](https://commercejs.com)
-- Hosting - [Netlify](https://netlify.com)
+- Hosting - [Vercel](https://vercel.com)
 - Styling - Bootstrap and SASS
 
 ## Customization and Extendability

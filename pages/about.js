@@ -48,14 +48,14 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-              Deploy to Netlify
+              Deploy to Vercel
             </h3>
             <h4 className="font-size-subheader mb-4">
               If you would like to deploy this project live today, click the button below and watch the magic happen!
             </h4>
             <div className="mt-3">
-              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store" target="_blank">
-                Deploy to Netlify
+              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-vercel" target="_blank">
+                Deploy to Vercel
               </a>
             </div>
           </div>
@@ -73,7 +73,7 @@ const About = () => (
             If you would like to clone this project and do a manual setup, go to the repository below!
             </h4>
             <div className="mt-3">
-              <a className="px-4 py-3 flex-grow-1 font-color-white about-gb" href="https://github.com/chec/commercejs-nextjs-demo-store" target="_blank">
+              <a className="px-4 py-3 flex-grow-1 font-color-white about-gb" href="https://github.com/chec/commercejs-nextjs-vercel" target="_blank">
                 Clone in GitHub
               </a>
             </div>

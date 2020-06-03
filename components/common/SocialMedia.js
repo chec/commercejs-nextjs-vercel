@@ -2,7 +2,7 @@ import React from 'react';
 
 const imagesInfo = [
   {
-    image: '/images/insta/1.png',
+    image: '/images/insta/1.jpg',
     translateRatio: -50
   },
   {
