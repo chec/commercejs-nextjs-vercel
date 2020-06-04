@@ -4,6 +4,8 @@ A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js S
 
 Checkout the live demo [here](https://commercejs-vercel-demo-store.now.sh)
 
+![Vercel Demo Preview](https://i.ibb.co/m8dVzrG/demo-preview-2.png)
+
 **Note**
 - This app is built using Commerce.js v2 SDK
 
