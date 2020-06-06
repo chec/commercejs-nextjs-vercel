@@ -19,6 +19,7 @@
     "next": "9.3.3",
     "next-redux-wrapper": "^6.0.0",
     "node-sass": "^4.13.0",
+    "now": "^19.0.1",
     "prop-types": "^15.7.2",
     "react": "16.12.0",
     "react-collapse": "^5.0.1",
@@ -29,7 +30,8 @@
     "react-transition-group": "^4.3.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "swiper": "^5.2.1"
+    "swiper": "^5.2.1",
+    "vercel": "^19.0.1"
   },
   "devDependencies": {
     "@chec/seeder": "^1.1.0",

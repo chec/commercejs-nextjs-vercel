@@ -104,15 +104,15 @@ const Footer = () => (
         <div className="custom-container d-flex flex-column flex-md-row align-items-center justify-content-between">
           <div className="pt-5 pb-0 pt-md-4 pb-md-4 d-flex align-items-center flex-wrap justify-content-center">
             <a
-              href="https://app.netlify.com/start/deploy?repository=https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://vercel.com/new/project?template=https://github.com/chec/commercejs-nextjs-vercel"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
             >
-              Deploy to Netlify
+              Deploy to Vercel
             </a>
             <p className="px-2 font-color-brand font-size-caption">-</p>
             <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://github.com/chec/commercejs-nextjs-vercel"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
             >
@@ -120,7 +120,7 @@ const Footer = () => (
             </a>
             <p className="px-2 font-color-brand font-size-caption">-</p>
             <a
-              href="https://github.com/chec/commercejs-nextjs-demo-store"
+              href="https://github.com/chec/commercejs-nextjs-vercel"
               className="font-color-brand font-size-caption text-uppercase text-center"
               target="_blank"
             >
