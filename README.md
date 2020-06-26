@@ -2,7 +2,7 @@
 
 A high-fidelity fully-fledged eCommerce demo store built using the Commerce.js SDK and Next.js with live deployment to Vercel.
 
-[![Live demo](https://cdn.chec.io/email/assets/marketing/chec-demo-btn_gray.svg) ](https://commercejs-vercel-demo-store.now.sh)
+[![Live demo](https://cdn.chec.io/email/assets/marketing/chec-demo-btn_gray.svg) ](https://commercejs-nextjs-vercel.now.sh/)
 
 ![Vercel Demo Preview](https://i.ibb.co/m8dVzrG/demo-preview-2.png)
 
