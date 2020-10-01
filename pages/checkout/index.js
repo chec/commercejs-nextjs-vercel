@@ -431,7 +431,7 @@ class CheckoutPage extends Component {
                         className="d-flex mb-2"
                       >
                         { (_item && _item.image)
-                          ? (<img className="checkout__line-item-image mr-2" src={_item.image} />)
+                          ? (<img className="checkout__line-item-image mr-2" src={_item.image.source} />)
                           : ''
                         }
                         <div className="d-flex flex-grow-1">
