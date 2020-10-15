@@ -41,7 +41,6 @@ export default class ShippingForm extends Component {
       orderNotes,
     } = this.props;
     return (
-      <>
         <div className="row">
           <div className="col-12 col-sm-4 mb-3">
             <label className="w-100">
